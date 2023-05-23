@@ -1,7 +1,7 @@
 import { useLocation } from "react-router-dom";
 
 function Breadcrumbs() {
-  const location = useLocation().pathname.replace("/", ">");
+  const location = useLocation().pathname.replace("/", " > ");
 
   return (
     <div className="container mx-auto m-5 text-lg sm:px-0 px-5">

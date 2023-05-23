@@ -115,7 +115,7 @@ const HomePage = () => {
       >
         Friends Who Enrolled
       </h2>
-      <h2 className="text-customPurple mt-5 sm-px-0 px-4">
+      <h2 className="text-customPurple mt-5 sm:px-0 px-4">
         Terms & Conditions
       </h2>
 
